@@ -28,3 +28,6 @@ Use kinect and openpose to output the associate action label of a person in a vi
 ## Dataset
 Actions: Standing Still, Waving arms, Drinking, Applaud, Sitting, etc...(See Docs)<br>
 The original dataset is too big, we extract them into key points position using openpose. See **sample_big.npy** and **labels_big.npy**.
+
+## Project participant
+Qiming Liu, Jiangjian Guo, Weihao Yan in Automation Department, SEIEE, SJTU.
